@@ -8,6 +8,7 @@ Language: C++
 | 01/05/20 | First Bad Version | [Question](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/) | [Solution](solutions/May_1_FirstBadVersion.cpp) |
 | 02/05/20 | Jewels and Stones | [Question](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/) | [Solution](solutions/May_2_JewelsAndStones.cpp) |
 | 03/05/20 | Ransom Note | [Question](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/) | [Solution](solutions/May_3_RansomNote.cpp) |
+| 04/05/20 | Number Complement | [Question](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/) | [Solution](solutions/May_4_NumberComplement.cpp) |
 
 
 Author: Yash Yadav  
