@@ -1,5 +1,5 @@
-# Leetcode_MAY2020_Challenge
-Repository for solution to all of the questions that will be posted in leetcode in May, 2020. All problems are solved by me personally and may not match with the solutions of others or from Leetcode.  
+# Leetcode MAY 2020 Challenge
+Repository for solution to all of the questions that will be posted in leetcode in May 2020. All problems are solved by me personally and may not match with the solutions of others or from Leetcode.  
 Feel free to contact me for any clarification.  
 Language: C++  
 
@@ -10,7 +10,7 @@ Language: C++
 | 03/05/20 | Ransom Note | [Question](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/) | [Solution](solutions/May_3_RansomNote.cpp) |
 | 04/05/20 | Number Complement | [Question](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/) | [Solution](solutions/May_4_NumberComplement.cpp) |
 | 05/05/20 | First Unique Character in a String | [Question](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/) | [Solution](solutions/May_5_FirstUniqueCharacterInAString.cpp) |
-
+| 06/05/20 | Majority Element | [Question](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/) | [Solution](solutions/May_6_MajorityElement.cpp) |
 
 Author: Yash Yadav  
 Telegram: [@OhYash](https://t.me/ohyash)
