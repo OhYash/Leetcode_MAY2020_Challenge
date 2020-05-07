@@ -11,8 +11,11 @@ Language: C++
 | 04/05/20 | Number Complement | [Question](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/) | [Solution](solutions/May_4_NumberComplement.cpp) |
 | 05/05/20 | First Unique Character in a String | [Question](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/) | [Solution](solutions/May_5_FirstUniqueCharacterInAString.cpp) |
 | 06/05/20 | Majority Element | [Question](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/) | [Solution](solutions/May_6_MajorityElement.cpp) |
+| 07/05/20 | Cousins in Binary Tree | [Question](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/) | [Solution](solutions/May_7_CousinsInBinaryTree.cpp) |
+
+
 
 Author: Yash Yadav  
-Telegram: [@OhYash](https://t.me/ohyash)
+Telegram: [@OhYash](https://t.me/ohyash)  
 Linkedin: https://www.linkedin.com/in/ohyash/  
 Website/portfolio: http://ohyash.github.io/  
