@@ -5,6 +5,7 @@ Language: C++
 
 | Date | Title | Question link | Solution Link |
 |--|--|--|--|
+| **Week 1** | -- | -- | -- |
 | 01/05/20 | First Bad Version | [Question](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/) | [Solution](solutions/May_1_FirstBadVersion.cpp) |
 | 02/05/20 | Jewels and Stones | [Question](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/) | [Solution](solutions/May_2_JewelsAndStones.cpp) |
 | 03/05/20 | Ransom Note | [Question](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/) | [Solution](solutions/May_3_RansomNote.cpp) |
@@ -12,6 +13,9 @@ Language: C++
 | 05/05/20 | First Unique Character in a String | [Question](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/) | [Solution](solutions/May_5_FirstUniqueCharacterInAString.cpp) |
 | 06/05/20 | Majority Element | [Question](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/) | [Solution](solutions/May_6_MajorityElement.cpp) |
 | 07/05/20 | Cousins in Binary Tree | [Question](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/) | [Solution](solutions/May_7_CousinsInBinaryTree.cpp) |
+| **Week 2** | -- | -- | -- |
+| 08/05/20 | Check If It Is a Straight Line | [Question](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3323/) | [Solution](solutions/May_8_CheckIfItIsAStraightLine.cpp) |
+| 09/05/20 | Valid Perfect Square | [Question](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3324/) | [Solution](solutions/May_9_ValidPerfectSquare.cpp) |
 
 
 
