@@ -16,6 +16,7 @@ Language: C++
 | **Week 2** | -- | -- | -- |
 | 08/05/20 | Check If It Is a Straight Line | [Question](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3323/) | [Solution](solutions/May_8_CheckIfItIsAStraightLine.cpp) |
 | 09/05/20 | Valid Perfect Square | [Question](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3324/) | [Solution](solutions/May_9_ValidPerfectSquare.cpp) |
+| 10/05/20 | Find the Town Judge | [Question](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3324/) | [Solution](solutions/May_10_FindTheTownJudge.cpp) |
 
 
 
